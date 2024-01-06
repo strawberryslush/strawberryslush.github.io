@@ -71,13 +71,13 @@ ul, ol {
 .navbar-custom {
 	margin-bottom: 0;
 	text-transform: uppercase;
-	background-color: #000;
+	background-color: #FFB6C1;
 }
 .navbar-custom .navbar-brand {
 	font-weight: 600;
 }
 .navbar-custom .navbar-brand i.fa {
-	color: #F4D03F;
+	color: #FF7F50;
 }
 .navbar-custom .navbar-brand:focus {
 	outline: 0;
@@ -100,19 +100,19 @@ ul, ol {
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
-	color: #F4D03F;
+	color: #FF7F50;
 	background-color: transparent;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
 	outline: 0;
 	background-color: transparent;
-	color: #F4D03F;
+	color: #FF7F50;
 }
 .navbar-custom .nav li.active {
 	outline: 0;
 }
 .navbar-custom .nav li.active a {
-	background-color: rgba(255,255,255,.3);
+	background-color: #F08080;
 }
 .navbar-custom .nav li.active a:hover {
 	color: #fff;
@@ -130,7 +130,7 @@ ul, ol {
 }
 .navbar-custom.top-nav-collapse {
 	padding: 0;
-	background: #000;
+	background: #FFFACD;
 }
 }
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
@@ -154,7 +154,7 @@ ul, ol {
 	vertical-align: middle;
 }
 .intro .intro-body .brand-heading {
-	color: #F4D03F;
+	color: #FF7F50;
 	text-transform: uppercase;
 	letter-spacing: -2px;
 }
