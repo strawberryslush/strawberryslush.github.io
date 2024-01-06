@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: beige;
+}
+img{
+	border: 2px;
+	float: right;
+	padding: 0 0 0 30px;
+	height: 350px;
+	width:400px;
+}
+p{
+	text-indent: 32px;
+	line-height: 30px;
+}
+.content{
+	width: 952px;
+	margin: 0 100px 0 100px;
+}
