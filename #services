@@ -1,0 +1,27 @@
+ <!-- Services Section -->
+    <div id="services" class="text-center">
+        <div class="container">
+            <div class="section-title center">
+                <h2>基本 <strong>资料</strong></h2>
+                <hr>
+            </div>
+            <div class="space"></div>
+            <div class="row">
+                <div class="col-md-3 col-sm-6 service"> <i class="fa fa-address-card-o"></i>
+                    <h4><strong>个人信息</strong></h4>
+                    <p>
+                        姓名:陈梦琪 &nbsp;&nbsp;&nbsp;性别：女</br>
+                        年龄: 20岁 &nbsp;&nbsp;&nbsp;籍贯：山东
+                    </p>
+                </div>
+		        <div class="col-md-3 col-sm-6 service"> <i class="fa fa-laptop"></i>
+                    <h4><strong>专业学历</strong></h4>
+                    <p>
+                        专业：经济统计学</br>
+                       
+                    </p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
