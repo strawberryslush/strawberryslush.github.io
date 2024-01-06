@@ -2,7 +2,7 @@ body, html {
 	font-family: microsoft yahei, sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
-	color: #FAD7D9;
+	color: #FF4500;
 	width: 100% !important;
 	height: 100% !important;
 }
@@ -36,7 +36,7 @@ p.intro {
 	font-family: 'Open Sans', sans-serif;
 }
 a {
-	color: #42426F;
+	color: #FF4500;
 }
 a:hover, a:focus {
 	text-decoration: none;
