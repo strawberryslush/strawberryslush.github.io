@@ -143,7 +143,7 @@ ul, ol {
 	text-align: center;
 	color: #fff;
 	background: url(../img/wallhaven-xlk9yv-tuya.jpg) no-repeat bottom center;
-	background-color: #000;
+	background-color: #FAD7D9;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -154,7 +154,7 @@ ul, ol {
 	vertical-align: middle;
 }
 .intro .intro-body .brand-heading {
-	color: #FF7F00;
+	color: #87CEFA;
 	text-transform: uppercase;
 	letter-spacing: -2px;
 }
@@ -337,7 +337,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6f7275', end
 /* Team Section */
 #team {
 	padding: 80px 0;
-	background: #ffffff; /* Old browsers */
+	background: #C0D9D9; /* Old browsers */
 	background: -moz-linear-gradient(top, #ffffff 0%, #cccccc 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #cccccc)); /* Chrome,Safari4+ */
 	background: -webkit-linear-gradient(top, #ffffff 0%, #cccccc 100%); /* Chrome10+,Safari5.1+ */
@@ -562,7 +562,7 @@ ol.type li a:hover {
 #shiyan {
 	padding-bottom: 20px;
 	color: #aaa;
-	background: #ADD8E6; /* Old browsers */
+	background: #E6E6FA; /* Old browsers */
 	background: -moz-linear-gradient(top, #6f7275 0%, #31353a 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #6f7275), color-stop(100%, #31353a)); /* Chrome,Safari4+ */
 	background: -webkit-linear-gradient(top, #6f7275 0%, #31353a 100%); /* Chrome10+,Safari5.1+ */
