@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+h3{
+	text-align: center;
+}
+table {
+  	border-collapse: collapse;
+	text-align: center;
+	width: 600px;
+}
+table, th, td
+{
+    border: 2px solid black;
+}
+div{
+	width:600px;
+	margin:auto;
+}
+.color1{
+	background-color: cadetblue;
+}
+.color2{
+	background-color:azure; 
+}
+.color3{
+	background-color: beige;
+}
