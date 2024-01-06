@@ -71,13 +71,13 @@ ul, ol {
 .navbar-custom {
 	margin-bottom: 0;
 	text-transform: uppercase;
-	background-color: #FFB6C1;
+	background-color: #87CEFA;
 }
 .navbar-custom .navbar-brand {
 	font-weight: 600;
 }
 .navbar-custom .navbar-brand i.fa {
-	color: #FF7F50;
+	color: #FF7F00;
 }
 .navbar-custom .navbar-brand:focus {
 	outline: 0;
@@ -100,13 +100,13 @@ ul, ol {
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
-	color: #FF7F50;
+	color: #FF7F00;
 	background-color: transparent;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
 	outline: 0;
 	background-color: transparent;
-	color: #FF7F50;
+	color: #FF7F00;
 }
 .navbar-custom .nav li.active {
 	outline: 0;
@@ -154,7 +154,7 @@ ul, ol {
 	vertical-align: middle;
 }
 .intro .intro-body .brand-heading {
-	color: #FF7F50;
+	color: #FF7F00;
 	text-transform: uppercase;
 	letter-spacing: -2px;
 }
