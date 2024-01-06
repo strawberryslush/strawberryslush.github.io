@@ -2,7 +2,7 @@ body, html {
 	font-family: microsoft yahei, sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
-	color: #FF4500;
+	color: #0000FF;
 	width: 100% !important;
 	height: 100% !important;
 }
@@ -36,7 +36,7 @@ p.intro {
 	font-family: 'Open Sans', sans-serif;
 }
 a {
-	color: #FF4500;
+	color: #FFC0CB;
 }
 a:hover, a:focus {
 	text-decoration: none;
@@ -562,7 +562,7 @@ ol.type li a:hover {
 #shiyan {
 	padding-bottom: 20px;
 	color: #aaa;
-	background: #6f7275; /* Old browsers */
+	background: #ADD8E6; /* Old browsers */
 	background: -moz-linear-gradient(top, #6f7275 0%, #31353a 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #6f7275), color-stop(100%, #31353a)); /* Chrome,Safari4+ */
 	background: -webkit-linear-gradient(top, #6f7275 0%, #31353a 100%); /* Chrome10+,Safari5.1+ */
@@ -572,13 +572,13 @@ ol.type li a:hover {
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6f7275', endColorstr='#31353a', GradientType=0 ); /* IE6-9 */
 }
 #shiyan .section-title.center hr {
-	background: #c1a533;
+	background: #90EE90;
 }
 #shiyan H2 {
 	color: #ddd;
 }
 #shiyan H4 {
-	color: #F4D03F;
+	color: #FFA500;
 	transition: all 0.5s;
 }
 .space {
