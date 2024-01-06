@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+form{
+	background-color: lightblue;
+	width: 350px;
+	height: 200px;
+	margin: auto;
+	border: 2px dashed azure;
+}
+p{
+	text-align: center;
+}
+hr{
+	width:330px;
+	background-color: white;
+}
+h2{
+	text-align: center;
+}
